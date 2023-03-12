@@ -1,5 +1,5 @@
 # Title: Istio Project
-### This kubernetes project that include Istio
+### This is a kubernetes project that include Istio
 
 ## Purpose:
 ### To learn how Istio service mesh works and how to integrate that with Kubernetes.
