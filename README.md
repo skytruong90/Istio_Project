@@ -1,5 +1,5 @@
 # Title: Istio Project
-### Istio Hands-On for Kubernetes
+### This kubernetes project that include Istio
 
 ## Purpose:
-### To learn how Istio service mesh works with Kubernetes.
+### To learn how Istio service mesh works and how to integrate that with Kubernetes.
