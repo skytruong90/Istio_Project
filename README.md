@@ -5,7 +5,7 @@
 ### This project is focused on learning and implementing Istio service mesh with Kubernetes. Istio is an open-source service mesh that provides a uniform way to connect, manage, and secure microservices. By integrating Istio with Kubernetes, this project aims to demonstrate the benefits of using a service mesh for managing microservices in a cloud-native environment. The project includes tutorials, code samples, and documentation to help users understand and implement Istio with Kubernetes
 
 ## Things I learned:
-### 1. The concept of a service mesh and how it can help manage microservices.
+1. The concept of a service mesh and how it can help manage microservices.
 2. The architecture of Istio and its components, such as Envoy proxies, Mixer, Pilot, and Citadel.
 3. How to install and configure Istio with Kubernetes, including setting up Istio's control plane and data plane.
 4. How to use Istio to manage traffic routing, load balancing, and fault tolerance for microservices.
