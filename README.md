@@ -1,4 +1,4 @@
-# Title: Istio Project
+# Istio Project
 ## This is a kubernetes project that include Istio
 
 ## Purpose:
